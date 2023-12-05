@@ -1,3 +1,4 @@
+#!/bin/bash/python3
 def multiple_returns(sentence):
     my_tuple = ()
     if len(sentence) == 0:
