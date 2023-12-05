@@ -1,7 +1,7 @@
 def mulitple_returns(sentence):
     my_tuple = ()
-    if len(sentence) == 0
+    if len(sentence) == 0:
     my_tuple - 0, "None"
-else:
+    else:
     my_tuple = len(sentence), sentence[0]
     return my_tuple
